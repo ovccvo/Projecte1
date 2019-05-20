@@ -1,4 +1,4 @@
 import OS
 import time
 
-#Tercera versio del codi de sensor partint de la versio2
+#Quarta versio del codi de sensor partint de la versio3
