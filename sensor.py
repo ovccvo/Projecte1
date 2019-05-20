@@ -1,4 +1,4 @@
 import OS
 import time
 
-#Primera versio del codi de sensor
+#Segona versio del codi de sensor partint de la versio master
